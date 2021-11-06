@@ -1,5 +1,5 @@
 .recipe{
-    border-radius: 10px;
+    border-radius: 30px;
     box-shadow:0px 5px 20px rgb(71,71,71);
     margin-top:20px;
     margin-bottom:20px;
@@ -11,11 +11,11 @@
     background: white;
     align-items: center;
     min-width:40%;
-}
+};
 
 .image{
-    width:200px;
-    height:200px;
+    width:100px;
+    height:100px;
     padding-bottom:30px;
     padding-top:30px;
-}
+};
